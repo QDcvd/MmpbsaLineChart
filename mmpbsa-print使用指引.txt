@@ -1,0 +1,10 @@
+记于2020 5.30
+使用语法：
+python mmpbsa-print.py [文件名]
+
+例子：
+python mmpbsa-print.py g_mmpbsa_analysis.xlsx
+
+结果：
+输出前三个sheet和最后一个sheet的图
+希望可以将这三个图保存下来
