@@ -7,7 +7,7 @@ Download and Enjoy!
 
 # Usage
 
-python mmpbsa-print.py [filename]
+usage: python mmpbsa-print.py [filename]
 
 example: python mmpbsa-print.py g_mmpbsa_analysis.xlsx
 
